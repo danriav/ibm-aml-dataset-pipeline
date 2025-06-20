@@ -1,0 +1,19 @@
+# .gitignore
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+venv/
+
+# Data
+data/raw/
+data/processed/
+.cache/
+.kaggle/
+
+# OS
+.DS_Store
+Thumbs.db
